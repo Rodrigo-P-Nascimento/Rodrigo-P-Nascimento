@@ -14,6 +14,7 @@
   <img align="center" alt="ROD-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ROD-c" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="ROD-cplusplus" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="ROD-godot" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
  
 </div>
 
